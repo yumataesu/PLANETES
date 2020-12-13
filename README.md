@@ -1,5 +1,5 @@
 # PLANETES
-Visualize current SPACE DEBLI's (including PAYLOAD, ROCKET BODY) position and predicted orbit.
+Visualize current SPACE DEBRI's (including PAYLOAD, ROCKET BODY) position and predicted orbit.
 
 ![](https://github.com/yumataesu/PLANETES/blob/master/readme/output.gif)
 
@@ -7,6 +7,6 @@ Visualize current SPACE DEBLI's (including PAYLOAD, ROCKET BODY) position and pr
 
 
 ## Credits
-* SGP library from https://github.com/brandon-rhodes/python-sgp4
-* Font data from https://www.1001fonts.com/digital-7-font.html
-* Earth texture data from https://www.blenderguru.com/tutorials/earth-cycles
+* SGP library : https://github.com/brandon-rhodes/python-sgp4
+* Font : https://www.1001fonts.com/digital-7-font.html
+* Earth texture data : https://www.blenderguru.com/tutorials/earth-cycles
