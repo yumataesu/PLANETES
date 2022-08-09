@@ -20,7 +20,7 @@ import xml.etree.ElementTree as ET
 # stations.xml is from:
 #    https://celestrak.com/NORAD/elements/gp.php?GROUP=STATIONS&FORMAT=XML
 # The XML structure is described in CCSDS 502.0-B-2 Orbit Data Messages
-#    https://public.ccsds.org/Pubs/502x0b2c1.pdf
+#    https://public.ccsds.org/Pubs/502x0b2c1e2.pdf
 #
 # stations-tle.txt is from:
 #    https://celestrak.com/NORAD/elements/stations.txt
